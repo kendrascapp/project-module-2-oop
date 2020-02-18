@@ -1,7 +1,7 @@
 # Object Oriented Programming Game Project
 
 <p align="center"><img src="./images/screenshot.png"></p>
-
+hghghghg
 ## Introduction
 
 This project was designed as a way for you to practice and learn about Object Oriented Programming. A good bit of code has already been provided for you, and it makes for an _almost_ working game.
@@ -10,7 +10,7 @@ The project is divided in two parts. In a first part, you will fix and implement
 
 Because there is a fair bit of JavaScript in this app, we have split code into more manageable pieces. You wil find all of the code in the `js` folder.
 
-_Because we split the code into many files, we need to import each file, in the right order in the `index.html` file.
+\_Because we split the code into many files, we need to import each file, in the right order in the `index.html` file.
 
 ## The game
 
